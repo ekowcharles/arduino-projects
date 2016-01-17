@@ -45,4 +45,4 @@ Server: cloudflare-nginx
 CF-RAY: 265e0e7a0faf0323-MIA
 ```
 
-Just too much verbosity in communication (especially in the header) besides the handshaking overhead. MQTT offers something better.
+Just too much verbosity in communication (especially in the header) besides the handshaking overhead. **MQTT** offers something better.
