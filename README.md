@@ -1,7 +1,7 @@
 # arduino-projects
 Arduino Projects
 
-## Adafruit HUZZAH Intructions
+## Preparing to use the Adafruit HUZZAH with Arduino
 If you are using a Mac, run the following commands:
 ```
     $ cd /Applications/Arduino.app/Contents/Java/hardware
