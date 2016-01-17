@@ -1,5 +1,11 @@
 /**
   https://github.com/guillaume-rico/SharpIR/blob/master/examples/SharpSensorCm/SharpSensorCm.ino
+
+  Connection instructions for Arduino UNO
+  ---------------------------------------
+  Connect RED wire to 5V
+  Connect BLACK wiere to GND
+  Connect YELLOW/WHITE to AO
 */
 
 #include <SharpIR.h>
