@@ -1,5 +1,5 @@
 /**
-  https://github.com/guillaume-rico/SharpIR/blob/master/examples/SharpSensorCm/SharpSensorCm.ino
+  ORIGINAL: https://github.com/guillaume-rico/SharpIR/blob/master/examples/SharpSensorCm/SharpSensorCm.ino
 
   Connection instructions for Arduino UNO
   ---------------------------------------
