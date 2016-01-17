@@ -11,7 +11,7 @@
 #include <SharpIR.h>
 
 #define ir 0
-#define model 20150
+#define model 20150         //Check your model: 1080 for GP2Y0A21Y, 20150 for GP2Y0A02Y
 #define sampleSize 25
 #define validityPercent 95
 
